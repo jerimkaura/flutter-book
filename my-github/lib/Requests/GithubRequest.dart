@@ -3,8 +3,8 @@ import 'package:http/http.dart' as http;
 class Github {
   final String userName;
   final String url = 'https://api.github.com/';
-  static String clientId = '5e4aa803deb598561d20';
-  static String clientSecret = '03c6c486bfd5aae69a31fb1648c5f66c4e5aec70';
+  static String clientId = 'CLIENT_ID';
+  static String clientSecret = 'CLIENT_SECRET';
 
   final String query = "?client_id=$clientId&client_secret=$clientSecret";
 
