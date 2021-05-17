@@ -1,2 +1,2 @@
 ### flutter-book
-List of my flutter application
+List of my flutter applications
