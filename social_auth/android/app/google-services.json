@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "724223956791",
+    "project_id": "taccomedia",
+    "storage_bucket": "taccomedia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724223956791:android:245d11594d8b778f102cb2",
+        "android_client_info": {
+          "package_name": "com.example.social_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724223956791-g8i3u10q4luv3313i2cq7i08cm4fou70.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.social_auth",
+            "certificate_hash": "6ae3dd2e99f04f767def237f3e17385926a1f67b"
+          }
+        },
+        {
+          "client_id": "724223956791-8ehb14c8j8qbehtv867tg2p9t0kho12d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPXZvKVTrGNwENBT8_HG1XqJv1ATSFAHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724223956791-8ehb14c8j8qbehtv867tg2p9t0kho12d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
