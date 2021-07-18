@@ -1,2 +1,2 @@
-### flutter-book
-List of my flutter applications.git 
+## FLUTTER BOOK
+A repository for mini projects implemented in flutter.
