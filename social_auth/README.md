@@ -1,16 +1,4 @@
-# social_auth
+### Social authentication
+Social authentication is an authentication technique in which one uses an existing account to log into or create a new account in another application. Besides levying a user on constantly remembering multiple passwords, social authentication eases the registration process and improves security.
 
-A flutter application to demonstarte social authentication using github, facebook and google
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project implements social authentication usingn Facebook and Google. You can find stepwise explanation [here](https://www.section.io/engineering-education/flutter-social-authentication/).
