@@ -1,8 +1,6 @@
-### FLUTTER BOOK
-A repository for mini projects implemented in flutter.
-
-- [x] Stripe checkout with flutter.
-- [x] Consuming APIs in flutter
-
-
-
+- [x] Flutter Social Auth
+- [x] Implementing localization
+- [ ] Dark theme and light theme
+- [x] Localization in Flutter
+- [x] Consuming APIs in Flutter
+- [x] Flutter folder organization
